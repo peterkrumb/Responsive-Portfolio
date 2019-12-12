@@ -1,0 +1,109 @@
+h1{
+    padding: 18px;
+    color: #eee;
+    width: 21%;
+    background: #4aaaa5;
+    margin: -24px 0px -8px 65px;
+    float: left;
+    padding-top: 33px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    position: relative;   
+}
+
+
+.navbar-nav{
+    text-align: right;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 0px 0px 0px 620px;
+    padding-bottom: 1px;
+    
+}
+
+header{
+    border-bottom-style: solid;
+    border-bottom-color: #cccccc;
+    border-bottom-width: 1px;
+}
+
+body{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/7/76/Ed_g2s_background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#bio-header{
+    color: #4aaaa5;
+    background: none;
+    padding: 57px 0px 0px 0px;
+    margin: -79px 0px 0px -66px;
+    float: left;
+    width: 47%;
+
+}
+
+.card{
+    
+    padding: 15px;
+    
+}
+
+.portfolio-container{
+    background: white;
+    margin: 45px 589px 33px 79px;
+}
+
+
+.portfolio-banner {
+    position: relative;
+    bottom: 28px;
+    width: 100%;
+    background: #4aaaa5;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.portfolio-banner-apple{
+    position: relative;
+    bottom: 28px;
+    width: 58%;
+    background: #4aaaa5;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#port-header{
+    background: none;
+    color: #4aaaa5;
+    float: left;
+    top: -19px;
+    left: -54px;
+}
+
+
+.container{
+    display: flex;
+    align-items: center;
+    background: white;
+    margin: 0px 0px 0px 0px;
+}
+
+.bio-image{
+margin: 0px 0px 0px 0px;
+}
+
+#bio-par{
+    margin: -170px 0px 47px 191px;
+}
+
+@media img (max-width: 768px) {
+    width: 100%;
+}
+
+#main-bio{
+    margin: 0px 0px 0px 0px;
+}
